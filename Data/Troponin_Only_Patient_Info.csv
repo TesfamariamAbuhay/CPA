@@ -1,0 +1,166 @@
+,patient_id,sex,condition,result
+212,22792,Man,acceptable,Discharged
+308,22792,Man,relatively satisfactory,Discharged
+3414,31430,Woman,acceptable,Discharged
+7052,43449,Woman,relatively satisfactory,Discharged
+7970,45691,Man,relatively satisfactory,Discharged
+7999,45691,Man,acceptable,Discharged
+8856,49093,Man,extremely heavy,Discharged
+8969,49093,Man,with negative dynamics,died
+9941,53286,Woman,arduous,Discharged
+11265,58454,Woman,acceptable,Discharged
+11919,60387,Woman,extremely heavy,died
+21100,94462,Man,acceptable,Discharged
+21159,94462,Man,relatively satisfactory,Discharged
+28453,110168,Woman,acceptable,Discharged
+29056,111040,Woman,acceptable,no change
+29058,111040,Woman,acceptable,Discharged
+30728,114077,Woman,agony,died
+31548,115665,Man,acceptable,Discharged
+32375,116374,Man,relatively satisfactory,Discharged
+32381,116374,Man,acceptable,Discharged
+32384,116374,Man,acceptable,no change
+40632,136685,Woman,stable,Discharged
+50701,164623,Woman,acceptable,Discharged
+50759,164623,Woman,relatively satisfactory,Discharged
+51825,167318,Man,acceptable,Discharged
+51830,167318,Man,relatively satisfactory,Discharged
+68007,225947,Man,acceptable,Discharged
+74922,246618,Woman,acceptable,Discharged
+100889,288898,Man,acceptable,Discharged
+100898,288898,Man,acceptable,automatic closed
+100956,288898,Man,relatively satisfactory,Discharged
+110440,299797,Woman,relatively satisfactory,Discharged
+110522,299797,Woman,acceptable,Discharged
+114673,303453,Man,acceptable,Discharged
+117765,305723,Man,acceptable,Discharged
+142237,320547,Man,meets with operation,Discharged
+142272,320547,Man,acceptable,Discharged
+142575,320571,Man,acceptable,Discharged
+145203,321952,Man,relatively satisfactory,Discharged
+147640,322938,Woman,acceptable,Discharged
+150703,324455,Man,acceptable,Discharged
+153601,325885,Man,acceptable,Discharged
+153891,325885,Man,average emergency,Discharged
+153995,325885,Man,relatively satisfactory,Discharged
+158253,327546,Man,acceptable,Discharged
+158514,327683,Man,acceptable,Discharged
+161149,328871,Woman,acceptable,automatic closed
+161152,328871,Woman,relatively satisfactory,Discharged
+161194,328871,Woman,stable,Discharged
+161228,328871,Woman,acceptable,Discharged
+163669,329900,Woman,relatively satisfactory,Discharged
+163850,329951,Man,acceptable,Discharged
+163965,329970,Woman,relatively satisfactory,Discharged
+185321,339381,Man,acceptable,Discharged
+185452,339452,Man,acceptable,Discharged
+187204,339851,Woman,acceptable,Discharged
+187254,339851,Woman,relatively satisfactory,Discharged
+187312,339859,Man,acceptable,automatic closed
+187314,339859,Man,average emergency,Discharged
+187334,339859,Man,acceptable,Discharged
+192125,341937,Man,acceptable,Discharged
+194782,342788,Woman,relatively satisfactory,Discharged
+194851,342788,Woman,acceptable,Discharged
+195282,343075,Man,acceptable,Discharged
+197999,344272,Man,arduous,died
+201275,345677,Woman,relatively satisfactory,Discharged
+203258,346669,Woman,acceptable,automatic closed
+203259,346669,Woman,acceptable,Discharged
+203761,346717,Woman,extremely heavy,died
+205790,347684,Man,relatively satisfactory,Discharged
+209393,349979,Woman,acceptable,automatic closed
+209395,349979,Woman,meets with operation,Discharged
+209450,349979,Woman,acceptable,Discharged
+211381,351033,Woman,relatively satisfactory,Discharged
+211431,351033,Woman,acceptable,Discharged
+217411,353928,Man,relatively satisfactory,Hospitalized
+217412,353928,Man,relatively satisfactory,Discharged
+220614,355920,Man,acceptable,Discharged
+225101,358083,Woman,relatively satisfactory,Discharged
+225641,358231,Man,acceptable,Discharged
+226005,358391,Woman,acceptable,Discharged
+229246,361345,Man,average emergency,Discharged
+229284,361345,Man,acceptable,Discharged
+233072,363486,Man,acceptable,Discharged
+239460,367501,Woman,acceptable,Discharged
+243605,369463,Man,acceptable,Discharged
+243620,369463,Man,stable,Discharged
+249122,373028,Man,acceptable,Discharged
+254561,376530,Woman,arduous,Discharged
+254581,376530,Woman,acceptable,Discharged
+254877,376590,Man,acceptable,Discharged
+255185,376794,Man,acceptable,no change
+255186,376794,Man,relatively satisfactory,Discharged
+257613,378310,Man,relatively satisfactory,Dynamic monitoring
+257614,378310,Man,acceptable,Discharged
+260196,379579,Man,acceptable,Discharged
+260889,379896,Woman,acceptable,Discharged
+267350,382561,Man,acceptable,Discharged
+271170,383587,Man,arduous,died
+271482,383775,Man,relatively satisfactory,Discharged
+273363,384329,Man,relatively satisfactory,Discharged
+273395,384329,Man,acceptable,Discharged
+276807,385805,Man,acceptable,Discharged
+276843,385805,Man,relatively satisfactory,Discharged
+279751,387560,Man,acceptable,Discharged
+287434,391308,Man,acceptable,Discharged
+287505,391308,Man,relatively satisfactory,Discharged
+287776,391402,Woman,acceptable,died
+294886,395552,Woman,acceptable,Discharged
+297887,397127,Woman,average emergency,Discharged
+299802,397882,Man,meets with operation,Discharged
+299930,397882,Man,acceptable,Discharged
+301685,398273,Woman,relatively satisfactory,Discharged
+301744,398273,Woman,acceptable,Discharged
+303580,398930,Woman,relatively satisfactory,Discharged
+306830,400332,Woman,acceptable,Discharged
+310830,402305,Woman,acceptable,Discharged
+310932,402305,Woman,relatively satisfactory,Discharged
+312651,403380,Woman,meets with operation,Discharged
+314845,404634,Man,relatively satisfactory,died
+318899,406700,Man,relatively satisfactory,Discharged
+319288,407225,Man,acceptable,Discharged
+321404,408463,Woman,acceptable,Discharged
+321922,408565,Man,acceptable,Discharged
+324173,409232,Man,relatively satisfactory,Discharged
+324608,409405,Man,acceptable,Discharged
+326782,410422,Man,acceptable,Discharged
+328540,411235,Woman,acceptable,Discharged
+329893,411528,Man,relatively satisfactory,Discharged
+330080,411528,Man,acceptable,Discharged
+335813,414838,Man,relatively satisfactory,Discharged
+338592,415597,Man,relatively satisfactory,Discharged
+341912,416632,Man,acceptable,Discharged
+342738,416862,Man,acceptable,Discharged
+342794,416862,Man,relatively satisfactory,Discharged
+343968,416978,Man,acceptable,Discharged
+351772,421557,Man,acceptable,Discharged
+355835,423989,Man,average emergency,Discharged
+355929,423989,Man,acceptable,Discharged
+356155,424014,Man,relatively satisfactory,Discharged
+356213,424014,Man,acceptable,Discharged
+360025,425903,Man,acceptable,Discharged
+360089,425903,Man,relatively satisfactory,Discharged
+363494,427662,Man,relatively satisfactory,Discharged
+366468,428540,Woman,average emergency,Discharged
+368896,429775,Man,acceptable,Discharged
+368993,429792,Woman,acceptable,Discharged
+369362,429840,Woman,acceptable,Discharged
+370898,430115,Woman,stable,Discharged
+371035,430115,Woman,acceptable,Discharged
+375155,432895,Man,extremely heavy,died
+379102,434422,Man,acceptable,Discharged
+386337,439505,Man,relatively satisfactory,Discharged
+389054,440694,Man,acceptable,Discharged
+390778,442204,Woman,acceptable,Discharged
+390901,442209,Man,relatively satisfactory,Discharged
+393343,443433,Man,acceptable,Discharged
+394563,443995,Woman,acceptable,Discharged
+397023,446213,Woman,relatively satisfactory,Discharged
+401918,449269,Man,relatively satisfactory,Discharged
+402011,449269,Man,acceptable,Discharged
+402726,449866,Man,acceptable,Discharged
+403346,450222,Man,average emergency,Discharged
+403368,450222,Man,acceptable,Discharged
+409011,454713,Man,acceptable,Discharged
